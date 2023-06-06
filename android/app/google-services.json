@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74937272753",
+    "project_id": "seangjon4-flutter",
+    "storage_bucket": "seangjon4-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74937272753:android:7f96ce4132c9878c86d590",
+        "android_client_info": {
+          "package_name": "com.example.seangjon_flutter4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74937272753-n3jvacjgacnlcf56c5fik9p3jfdc312v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI8_pUiQwB3fXyLgzRqkXmO58PflC1rb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74937272753-n3jvacjgacnlcf56c5fik9p3jfdc312v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
